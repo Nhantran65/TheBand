@@ -148,7 +148,7 @@ html{
     position: relative;
     padding-top: 50%;
    margin-top: 46px;
-    background: url('/asses/img/slider/slider1.jpg') top center / cover no-repeat;
+    background: url('https://media.npr.org/assets/img/2020/02/24/gettyimages-94282088_wide-0324340508477ea682c3ab64197e898a4966d266.jpg') top center / cover no-repeat;
 }
 #slider .text-content{
     position: absolute;
